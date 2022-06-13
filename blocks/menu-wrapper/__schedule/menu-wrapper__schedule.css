@@ -1,0 +1,20 @@
+.menu-wrapper__schedule {
+  margin: 0;
+  padding-left: 12px;
+  /* padding-right: 90px; */
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: relative;
+}
+
+.menu-wrapper__schedule::before {
+  content: '';
+  height: 4px;
+  width: 4px;
+  background-color: #46cb72;
+  position: absolute;
+  left: 0;
+  top: 7px;
+  border-radius: 50%;
+}

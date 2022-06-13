@@ -1,0 +1,12 @@
+.cards__item {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  width: 260px;
+  height: 415px;
+  background-image: url(../../../img/rectangle-2.svg);
+  padding: 36px 0 0;
+  margin: 0;
+}

@@ -1,0 +1,11 @@
+.form__kebab {
+  background-image: url(../../../img/kebab.png);
+  background-repeat: no-repeat;
+  width: 192px;
+  height: 149px;
+  z-index: 1;
+  position: absolute;
+  right: 5%;
+  bottom: -32px;
+  opacity: 0.25;
+}

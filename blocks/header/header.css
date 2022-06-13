@@ -1,0 +1,7 @@
+.header {
+  height: 100vh;
+  min-height: 941px;
+  min-width: 1250px;
+  margin: 0 auto;
+  position: relative;
+}

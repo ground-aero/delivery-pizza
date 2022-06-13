@@ -1,0 +1,10 @@
+.footer__container {
+  display: flex;
+  justify-content: space-between;
+  width: 1160px;
+  height: 66px;
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+}

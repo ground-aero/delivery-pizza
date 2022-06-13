@@ -1,0 +1,8 @@
+.logo_place_header {
+    width: 112px;
+    height: 67px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

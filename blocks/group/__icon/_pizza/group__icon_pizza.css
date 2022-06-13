@@ -1,0 +1,10 @@
+.group__icon_pizza {
+  background: url('../../../../img/piza-2.png') no-repeat;
+  width: 791px;
+  height: 759px;
+  left: 55%;
+  transform: translateX(-55%);
+  bottom: -140px;
+  object-fit: cover;
+  object-position: bottom;
+}

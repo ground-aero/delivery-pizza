@@ -1,0 +1,11 @@
+.form__car {
+  background-image: url(../../../img/car.png);
+  background-repeat: no-repeat;
+  width: 767px;
+  height: 345px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -100px;
+  z-index: 1;
+}

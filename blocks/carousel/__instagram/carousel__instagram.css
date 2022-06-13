@@ -1,0 +1,12 @@
+.carousel__instagram {
+  background: url(../../../img/instagram.png) no-repeat;
+  width: 420px;
+  height: 200px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-40%);
+  margin: 0;
+  padding: 0;
+  z-index: 3;
+}

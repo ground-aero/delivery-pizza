@@ -1,0 +1,9 @@
+.carousel {
+  height: 280px;
+  min-width: 1250px;
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  overflow: hidden;
+}

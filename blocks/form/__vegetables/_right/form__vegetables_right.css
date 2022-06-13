@@ -1,0 +1,9 @@
+.form__vegetables_right {
+  background-image: url(../../../../img/vegetables-3.png);
+  background-repeat: no-repeat;
+  width: 293px;
+  height: 425px;
+  right: 0;
+  bottom: -30px;
+  z-index: 2;
+}

@@ -1,0 +1,15 @@
+.form__item-call-back {
+  background-image: url(../../../img/button.png);
+  width: 267px;
+  height: 86px;
+  margin: 0;
+  padding: 0;
+  border: none;
+  opacity: 0.9;
+  transition: opacity 0.4s linear;
+}
+
+.form__item-call-back:hover {
+  opacity: 0.65;
+  cursor: pointer;
+}

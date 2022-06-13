@@ -1,0 +1,11 @@
+.text__title {
+  min-width: 949px;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 58px;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 0px;
+}

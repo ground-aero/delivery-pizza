@@ -1,0 +1,21 @@
+.cards__lock {
+  background-image: url(../../../img/lock.png);
+  width: 33px;
+  height: 33px;
+  position: relative;
+  bottom: 0;
+  z-index: 1;
+  margin: 0 auto;
+  /* float: center; */
+}
+
+.cards__lock:hover {
+  background-image: url(../../../img/lock-orange.png);
+  width: 33px;
+  height: 33px;
+  position: relative;
+  bottom: 5;
+  z-index: 1;
+  margin: 0 auto;
+  /* float: center; */
+}

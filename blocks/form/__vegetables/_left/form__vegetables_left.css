@@ -1,0 +1,9 @@
+.form__vegetables_left {
+    background-image: url(../../../../img/vegetables-2.png);
+  background-repeat: no-repeat;
+  width: 260px;
+  height: 392px;
+  left: 0;
+  bottom: 0;
+  z-index: 2;
+}

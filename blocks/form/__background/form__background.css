@@ -1,0 +1,6 @@
+.form__background {
+  background-image: url(../../../img/rectangle-bottom.png);
+  position: relative;
+  min-width: 1250px;
+  min-height: 575px;
+}

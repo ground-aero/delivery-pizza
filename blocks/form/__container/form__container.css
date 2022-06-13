@@ -1,0 +1,9 @@
+.form__container {
+  width: 900px;
+  height: 91px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 240px;
+  align-items: center;
+}

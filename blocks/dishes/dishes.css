@@ -1,0 +1,7 @@
+.dishes {
+  min-height: 1335px;
+  min-width: 1250px;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto -40px;
+}

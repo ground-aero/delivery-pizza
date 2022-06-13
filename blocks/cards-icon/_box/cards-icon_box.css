@@ -1,0 +1,7 @@
+.cards-icon_box {
+  width: 76px;
+  height: 76px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

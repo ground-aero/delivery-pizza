@@ -1,0 +1,11 @@
+.text__offer {
+  width: 200px;
+  height: 44px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22.5px;
+  text-align: right;
+  position: absolute;
+  right: 140px;
+  top: 445px;
+}

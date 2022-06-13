@@ -1,0 +1,13 @@
+.form__item-tel {
+  background: #fff;
+  border-radius: 57px;
+  border: 2px solid #eceef7;
+  padding-left: 20px;
+  font-family: inherit;
+}
+
+.form__item-tel:focus {
+  outline: #fe5626;
+  outline-style: solid;
+  outline-width: 1px;
+}

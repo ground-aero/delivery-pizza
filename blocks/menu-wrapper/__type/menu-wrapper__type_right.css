@@ -1,0 +1,8 @@
+.menu-wrapper__type_right {
+  display: flex;
+  min-width: 354px; 
+  align-items: center;
+  justify-content: space-between;
+  min-height: 34px;
+  position: relative;
+}

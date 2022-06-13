@@ -1,0 +1,8 @@
+.dishes__icon_pincer {
+  width: 198px;
+  height: 149px;
+  right: -70px;
+  top: 10%;
+  opacity: 0.15;
+  z-index: 10;
+}
