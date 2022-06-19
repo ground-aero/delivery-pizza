@@ -1,5 +1,6 @@
 .group__icon_pizza {
-  background: url('../../../../img/piza-2.png') no-repeat;
+  background-image: url(../../../../img/piza-2.png);
+  background-repeat: no-repeat;
   width: 791px;
   height: 759px;
   left: 55%;
