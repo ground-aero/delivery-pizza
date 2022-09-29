@@ -26,8 +26,6 @@
 @import url(../blocks/text/__offer/text__offer.css);
 @import url(../blocks/text/__offer-red/text__offer-red.css);
 
-@import url(../blocks/text/__offer/_red/text__offer_red.css);
-
 @import url(../blocks/group/__icon/group__icon.css);
 @import url(../blocks/group/__icon/_pumkin/group__icon_pumkin.css);
 @import url(../blocks/group/__icon/_mushroom/group__icon_mushroom.css);
@@ -42,6 +40,7 @@
 @import url(../blocks/dishes/__title/dishes__title.css);
 @import url(../blocks/dishes/__icon/dishes__icon.css);
 @import url(../blocks/dishes/__icon/_pincer/dishes__icon_pincer.css);
+
 @import url(../blocks/dishes/__icon/_sticks/dishes__icon_sticks.css);
 @import url(../blocks/dishes/__icon/_cabbage/dishes__icon_cabbage.css);
 
@@ -50,9 +49,9 @@
 @import url(../blocks/menu-tabs/__item/_active/menu-tabs__item_active.css);
 
 @import url(../blocks/group/__icon/_bag/group__icon_bag.css);
-@import url(../blocks/group/__icon/_sticks/group__icon_sticks.css);
-@import url(../blocks/group/__icon/_pincer/group__icon_pincer.css);
-@import url(../blocks/group/__icon/_cabbage/group__icon_cabbage.css);
+/* @import url(../blocks/group/__icon/_sticks/group__icon_sticks.css); */
+/* @import url(../blocks/group/__icon/_pincer/group__icon_pincer.css); */
+/* @import url(../blocks/group/__icon/_cabbage/group__icon_cabbage.css); */
 
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards-icon/cards-icon.css);
@@ -70,7 +69,9 @@
 @import url(../blocks/cards/__lock/cards__lock.css);
 @import url(../blocks/cards/__lock/_active/cards__lock_active.css);
 
+@import url(../blocks/phone/Phone.css);
 @import url(../blocks/rotation/rotation.css);
+@import url(../blocks/pulse/pulse.css);
 
 @import url(../blocks/carousel/carousel.css);
 @import url(../blocks/carousel/__pic/carousel__pic.css);

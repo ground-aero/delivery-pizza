@@ -1,0 +1,52 @@
+/* @keyframes pulse { */
+
+/* .pulse {
+  animation: phone-outer 3000ms infinite;
+
+  &::before {
+    animation: phone-inner 3000ms infinite;
+  }
+
+  &::after {
+    animation: phone-icon 3000ms infinite;
+  }
+} */
+
+/* --- rotate ------- */
+/* from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  } */
+
+/* ------ pulsing ------------------- */
+/* 0% {
+    transform: scale(0.8); */
+/* box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7); */
+/* }
+
+  25% {
+    transform: scale(1.2); */
+/* box-shadow: 0 0 0 10px rgba(0, 0, 0, 0); */
+/* }
+
+  50% {
+    transform: scale(0.8); */
+/* box-shadow: 0 0 0 0 rgba(0, 0, 0, 0); */
+/* }
+
+  75% {
+    transform: scale(1.2); */
+/* box-shadow: 0 0 0 10px rgba(0, 0, 0, 0); */
+/* }
+
+  100% {
+    transform: scale(0.8); */
+/* box-shadow: 0 0 0 0 rgba(0, 0, 0, 0); */
+/* } */
+/* } */
+
+/* .pulse {
+  animation: pulse 4s linear;
+} */
