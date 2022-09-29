@@ -15,4 +15,6 @@ _The following components used in this project:_
 
 ---
 
+- [web-link to the project](https://ground-aero.github.io/delivery-pizza/)
+
 _* drafted in June 13, 2022 *_
